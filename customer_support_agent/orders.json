@@ -1,0 +1,35 @@
+
+{
+  "orders": [
+    {
+      "order_id": "ORD1001",
+      "customer_id": "CUST101",
+      "product": "Wireless Headphones",
+      "order_status": "Delivered",
+      "delivery_status": "Delivered",
+      "tracking_number": "TRK5001",
+      "delivery_date": "2026-10-27",
+      "complaint_type": "package_not_received"
+    },
+    {
+      "order_id": "ORD1002",
+      "customer_id": "CUST102",
+      "product": "Laptop Stand",
+      "order_status": "Shipped",
+      "delivery_status": "In Transit",
+      "tracking_number": "TRK5002",
+      "delivery_date": null,
+      "complaint_type": "delayed_delivery"
+    },
+    {
+      "order_id": "ORD1003",
+      "customer_id": "CUST103",
+      "product": "Coffee Maker",
+      "order_status": "Delivered",
+      "delivery_status": "Delivered",
+      "tracking_number": "TRK5003",
+      "delivery_date": "2026-10-26",
+      "complaint_type": "damaged_product"
+    }
+  ]
+}
