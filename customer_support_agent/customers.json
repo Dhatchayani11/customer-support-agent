@@ -1,0 +1,25 @@
+{
+  "customers": [
+    {
+      "customer_id": "CUST101",
+      "name": "Alex Johnson",
+      "email": "alex@example.com",
+      "phone": "555-0101",
+      "account_status": "Active"
+    },
+    {
+      "customer_id": "CUST102",
+      "name": "Sarah Williams",
+      "email": "sarah@example.com",
+      "phone": "555-0102",
+      "account_status": "Active"
+    },
+    {
+      "customer_id": "CUST103",
+      "name": "Michael Brown",
+      "email": "michael@example.com",
+      "phone": "555-0103",
+      "account_status": "Active"
+    }
+  ]
+}
